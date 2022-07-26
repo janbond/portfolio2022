@@ -1,0 +1,162 @@
+[
+  {
+    "id": 18,
+    "title": "曜越單車網站",
+    "image": "",
+    "link": "https://bike.thermaltake.com/tc_/",
+    "tags": ["magento", "企業網站"],
+    "content": "因為代理腳踏車品牌而製作的新官網，也是使用 Magento 系統，主要也是負責整個網站前端。"
+  },
+  {
+    "id": 19,
+    "title": "TTBIKE 185 中文官方網站",
+    "image": "",
+    "link": "https://www.ttbike185.com/tc/",
+    "tags": ["magento", "企業網站"],
+    "content": "因為代理腳踏車品牌而製作的新官網，這個主要是腳踏車商品的購物網站，也是使用 Magento 系統，主要也是負責整個網站前端。"
+  },
+  {
+    "id": 1,
+    "title": "曜越網站(Vue)",
+    "image": "",
+    "link": "https://casemod.thermaltake.com/old-key3/#/",
+    "tags": ["vue", "vue-cli", "vuex", "企業網站", "購物車"],
+    "content": "這是公司之前未套用 Magento 系統時，請我先製作的幾個版型，當時還是先用純 HTML 與 CSS 建製。<br>後來有開始接觸 Vue 後，便自己把它拿來重新改成用 Vue-cli 建製，還有模擬正式網站一樣嘗試用 Vuex 的 Actions 串後台產品 API ，因為後台的資料格式無法滿足我網頁需求，便自行想辦法處理資料結構，把它變成我需要的格式，例如像是把 category 分類分成大分類跟子分類，把它們變成動態 Menu 跟 Submenu ，並做出一些產品篩選的功能。<br>並且模擬正式環境加上購物車的功能，可以把產品加入購物車。<br>而網頁還有某些細節部分還不完全，會在後續有時間慢慢完善它。"
+  },
+  {
+    "id": 2,
+    "title": "CaseMOD Invitational 機殼改裝網站",
+    "image": "",
+    "link": "https://casemod.thermaltake.com/2022s1/#/en",
+    "tags": ["vue", "vue-cli", "活動網站", "i18n 多國語系"],
+    "content": "這是每年都會舉辦的活動，而以前都是用純 HTML 框架寫成，後來用 Vue 框架重新改寫，用 Vue-cli 建製。<br>因為是週期性活動網站，所以 Modder 的資料更新很頻繁，便把資料都另外寫在 Json 檔案中，如果要更新便只要更新此 Json 檔案就好。<br>還有需要多國語系，而使用 i18n 並給每個語系網址後面都有代碼，讓使用者可以貼上語系的網址而能對應到該語系。"
+  },
+  {
+    "id": 3,
+    "title": "RAM MOD Invitational 記憶體改裝網站",
+    "image": "",
+    "link": "https://rammod.thermaltake.com/rammod2021/#/",
+    "tags": ["vue", "vue-cli", "活動網站"],
+    "content": "這是每年都會舉辦的活動，把以前的純 HTML 框架改成 Vue 框架，用 Vue-cli 建製。<br>因為是週期性活動網站，所以 Modder 的資料更新很頻繁，便把資料都寫在 Json 檔案中，如果要更新便只要更新此 Json 檔案就好。<br>這網頁製作時也遇到一個瓶頸，在別的頁面點選 menu 要回到首頁並直接到首頁的指定區塊，最後也想辦法解決了。"
+  },
+  {
+    "id": 4,
+    "title": "便當狗(公司內部訂便當飲料系統)",
+    "image": "",
+    "link": "https://rammod.thermaltake.com/dinfood/#/",
+    "tags": ["vue", "vue-cli", "vuex", "企業網站", "購物網站"],
+    "content": "很久之前製作的公司內部訂便當或飲料系統，當時是用純 HTML 搭配後端工程師用 PHP 完成的，當時可以把便當或飲料菜單的資料整理成 XML 檔上傳，然後可以讓負責人點選開團功能，讓公司所有人訂購便當或飲料的功能。<br>時隔很久也沒再使用了，之後我再把它拿來改成用 Vue-cli 重新建置，雖然沒有會員、開團這些功能，但我主要是針對菜單的訂購來練習製作。<br>用 Vue 寫這網站對我來說也是很複雜，把原本的 XML 檔菜單改成用 Json 檔，然後處理了資料格式、飲料的糖冰配料、購買流程、品項數量、計算金額、資料傳送等等，也是花了很多時間去練習製作它。<br>目前登入帳密隨便打就可以登入，歡迎使用看看。"
+  },
+  {
+    "id": 5,
+    "title": "EXPO 線上直播展覽網站",
+    "image": "",
+    "link": "https://expo.thermaltake.com/2022july/#/",
+    "tags": ["vue", "活動網站"],
+    "content": "這是每年都會舉辦的線上展覽的活動，但因為這是較為簡單的網站，只有首頁跟新聞頁面，我便用不用 Vue-cli 而直接用 CDN 的方式引入 Vue 來製作，但也是跟 Vue-cli 差不多架構，把它們各個組件都拆開為數個 Js 檔。"
+  },
+  {
+    "id": 6,
+    "title": "曜越網站(HTML)",
+    "image": "",
+    "link": "https://janbond.github.io/official_website_1/",
+    "tags": ["html", "企業網站"],
+    "content": "這是公司之前未套用 Magento 系統時，請我先製作的幾個版型其中一個，當初用純 HTML 與 CSS 建製的靜態網站。"
+  },
+  {
+    "id": 7,
+    "title": "曜越網站(正式版)",
+    "image": "",
+    "link": "https://www.thermaltake.com/test_index",
+    "tags": ["magento", "企業網站"],
+    "content": "最後公司選擇套用 Magento 系統，官網改版製作上因為公司許多人的意見而修修改改，我也製作了幾個版本，但陸陸續續又提說要加入購物車系統等等，所以最後選擇導入了 Magento 系統。<br>而我是負責整個網站前端的部分，因為這套系統網頁上不同區塊也都各別放在不同地方，而要熟悉這套系統並更改它原始碼著實也費了不少工夫，最後把整個網站的設計完成後，後續轉移產品跟個語系也是筆大工程。<br>一個公司的官網是累積了十幾年的產品，加上還有好幾個語系要兼顧，後續處理產品的轉移跟所有語系不同國家的意見也是最累人的其中一環。最後在團隊一起努力中和許多不同意見中完成改版的重任。"
+  },
+  {
+    "id": 8,
+    "title": "TT premium 購物網站",
+    "image": "",
+    "link": "https://ttpremium.com.tw/",
+    "tags": ["magento", "企業網站"],
+    "content": "TT premium 改版也選擇整合到 Magento 系統不同的，這樣也方便後台產品可以共用，跟官網一樣主要也是負責建製整個網站前端部分。"
+  },
+  {
+    "id": 9,
+    "title": "LCGS 水冷電競電腦組裝網站",
+    "image": "",
+    "link": "https://lcgs.thermaltake.com/",
+    "tags": ["magento", "企業網站"],
+    "content": "這是比曜越網站還要早的導入 Magento 的網站，所以當時是用 Magento 1.0 來建製，後續也有導入到 2.0 以上的版本。"
+  },
+  {
+    "id": 10,
+    "title": "曜越 Service Center",
+    "image": "",
+    "link": "https://my.thermaltake.com/index.aspx",
+    "tags": ["html", "企業網站"],
+    "content": "早期的 Service Center 改版網站，也是用 HTML 完成後，後端工程師再用 ASP 來配合完成。"
+  },
+  {
+    "id": 11,
+    "title": "LCGS 入口網頁",
+    "image": "",
+    "link": "https://lcgs.thermaltake.com/intro",
+    "tags": ["magento", "企業網站"],
+    "content": "這是 LCGS 水冷電競電腦組裝網站，在其他沒有該語系的國家會進到這頁面，來選擇你要進去語系的入口網站。"
+  },
+  {
+    "id": 12,
+    "title": "Your Mod, Your Way. 產品顏色展示網頁",
+    "image": "",
+    "link": "https://www.thermaltake.com/yourmodyourway",
+    "tags": ["magento", "產品頁面"],
+    "content": "因為許多產品有各種顏色，於是他們說要做一個像調色盤，可以點擊換產品顏色的展示網頁。"
+  },
+  {
+    "id": 13,
+    "title": "曜越網站產品頁面1",
+    "image": "",
+    "link": "https://www.thermaltake.com/level-20-ht-chassis.html",
+    "tags": ["magento", "產品頁面"],
+    "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>這頁比較特別是自己寫了點按鈕會旋轉產品的效果，但就是用很多圖片串連起來。"
+  },
+  {
+    "id": 14,
+    "title": "曜越網站產品頁面2",
+    "image": "",
+    "link": "https://www.thermaltake.com/distrocasetm-350p-mid-tower-chassis.html",
+    "tags": ["magento", "產品頁面"],
+    "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>這頁比較特別是自己寫了點按鈕會旋轉產品的效果，但就是用很多圖片串連起來。"
+  },
+  {
+    "id": 15,
+    "title": "曜越網站產品頁面3",
+    "image": "",
+    "link": "https://www.thermaltake.com/argent-e700-real-leather-gaming-chair-ocean-blue.html",
+    "tags": ["magento", "產品頁面"],
+    "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>這頁他們希望可以像蘋果的風格，而製作了頁面下滑，產品會轉動的動畫效果。"
+  },
+  {
+    "id": 16,
+    "title": "Upgrade Your PC Device with Thermaltake",
+    "image": "",
+    "link": "https://www.thermaltake.com/thermaltake-support-intel-lga1700-socket",
+    "tags": ["magento", "產品頁面"],
+    "content": "這頁也是產品需求做的網頁，也寫了下滑有出現文字滑入、出現左邊有導覽選單效果。"
+  },
+  {
+    "id": 17,
+    "title": "Computex 2019",
+    "image": "",
+    "link": "https://computex.thermaltake.com/2019/",
+    "tags": ["html", "活動網站"],
+    "content": "疫情前每年固定會參加的展覽，因而每年都也會製作此網站，但疫情後就停止參展了。"
+  },
+  {
+    "id": 20,
+    "title": "創意設計大賽活動網站",
+    "image": "",
+    "link": "https://janbond.github.io/ttdesignworks2017/",
+    "tags": ["html", "活動網站"],
+    "content": "幾乎每年固定會辦的比賽，因而製作此網站，但疫情後似乎就停止辦比賽了。"
+  }
+]
