@@ -1,5 +1,13 @@
 [
   {
+    "id": 21,
+    "title": "曜越單車電競爭霸戰",
+    "image": "",
+    "link": "https://event.thermaltake.com/TTCYCLINGESPORTS/#/",
+    "tags": ["vue", "vue-cli", "vuex", "Axios", "活動網站"],
+    "content": "為腳踏車舉辦賽事活動與讓參賽者報名的官網，用 Vue-cli 建製。與後台 API 串接的報名功能，也有使用 Google Analytics 分析。<br>"
+  },
+  {
     "id": 18,
     "title": "曜越單車網站",
     "image": "",
@@ -20,7 +28,7 @@
     "title": "曜越網站(Vue)",
     "image": "",
     "link": "https://casemod.thermaltake.com/old-key3/#/",
-    "tags": ["vue", "vue-cli", "vuex", "企業網站", "購物車"],
+    "tags": ["vue", "vue-cli", "vuex", "Axios", "企業網站", "購物車"],
     "content": "這是公司之前未套用 Magento 系統時，請我先製作的幾個版型，當時還是先用純 HTML 與 CSS 建製。<br>後來有開始接觸 Vue 後，便自己把它拿來重新改成用 Vue-cli 建製，還有模擬正式網站一樣嘗試用 Vuex 的 Actions 串後台產品 API ，因為後台的資料格式無法滿足我網頁需求，便自行想辦法處理資料結構，把它變成我需要的格式，例如像是把 category 分類分成大分類跟子分類，把它們變成動態 Menu 跟 Submenu ，並做出一些產品篩選的功能。<br>並且模擬正式環境加上購物車的功能，可以把產品加入購物車。<br>而網頁還有某些細節部分還不完全，會在後續有時間慢慢完善它。"
   },
   {
