@@ -4,7 +4,7 @@
     "title": "大富翁遊戲",
     "image": "",
     "link": "https://janbond.github.io/vite-richman/",
-    "tags": ["vue", "vite", "vuex", "活動網站"],
+    "tags": ["vue", "vite", "vuex", "javascript", "活動網站"],
     "content": "遊戲活動用的網站，用 vite 建製，可以點擊擲骰子後，人物會隨著骰子的數字一格一格行走，走完一圈可以抽機會命運的卡片，原本此活動網站是用純 JS 手刻，後來自己試著用 vue 寫出來。"
   },
   {
@@ -116,7 +116,7 @@
     "title": "LCGS 入口網頁",
     "image": "",
     "link": "https://lcgs.thermaltake.com/intro",
-    "tags": ["magento", "企業網站"],
+    "tags": ["magento", "javascript", "企業網站"],
     "content": "這是 LCGS 水冷電競電腦組裝網站，在其他沒有該語系的國家會進到這頁面，來選擇你要進去語系的入口網站。"
   },
   {
@@ -124,7 +124,7 @@
     "title": "Your Mod, Your Way. 產品顏色展示網頁",
     "image": "",
     "link": "https://www.thermaltake.com/yourmodyourway",
-    "tags": ["magento", "產品頁面"],
+    "tags": ["magento", "javascript", "產品頁面"],
     "content": "因為許多產品有各種顏色，於是他們說要做一個像調色盤，可以點擊換產品顏色的展示網頁。"
   },
   {
@@ -132,7 +132,7 @@
     "title": "曜越網站產品頁面 - 電競桌",
     "image": "",
     "link": "https://www.thermaltake.com/argent-p900-smart-gaming-desk-design-by-studio-f-a-porsche.html",
-    "tags": ["magento", "產品頁面"],
+    "tags": ["magento", "javascript", "產品頁面"],
     "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>但這次這產品他們希望可以像蘋果的風格，而製作了滾動頁面下滑，產品會有動畫效果，所以這次就使用 GSAP 這套件，當初載入 Magento 時也出現一些 Bug，也花了許多時間排除。"
   },
   {
@@ -140,7 +140,7 @@
     "title": "曜越網站產品頁面 - 機殼其一",
     "image": "",
     "link": "https://www.thermaltake.com/level-20-ht-chassis.html",
-    "tags": ["magento", "產品頁面"],
+    "tags": ["magento", "javascript", "產品頁面"],
     "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>這頁比較特別是自己寫了點按鈕會旋轉產品的效果，但就是用很多圖片串連起來。"
   },
   {
@@ -148,7 +148,7 @@
     "title": "曜越網站產品頁面 - 機殼其二",
     "image": "",
     "link": "https://www.thermaltake.com/distrocasetm-350p-mid-tower-chassis.html",
-    "tags": ["magento", "產品頁面"],
+    "tags": ["magento", "javascript", "產品頁面"],
     "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>這頁比較特別是自己寫了點按鈕會旋轉產品的效果，但就是用很多圖片串連起來。"
   },
   {
@@ -156,7 +156,7 @@
     "title": "曜越網站產品頁面 - 電競椅",
     "image": "",
     "link": "https://www.thermaltake.com/argent-e700-real-leather-gaming-chair-ocean-blue.html",
-    "tags": ["magento", "產品頁面"],
+    "tags": ["magento", "javascript", "產品頁面"],
     "content": "隨著在新官網改版上線後，產品頁面風格也要求更多樣更多效果，而工作蠻大部分都是在產品推出時的產品頁面的建置了。<br>其中比較麻煩的是， Magento 系統中如果要使用另外載入的一些套件時會較為麻煩甚至會造成整個網站出錯誤，所以寫效果時就需要較常自己用 JS 或 JQ 手刻或上網找資料了。<br>但這次這產品他們希望可以像蘋果的風格，而製作了滾動頁面下滑，產品會有動畫效果，所以這次就使用 GSAP 這套件，當初載入 Magento 時也出現一些 Bug，也花了許多時間排除。"
   },
   {
@@ -164,7 +164,7 @@
     "title": "Upgrade Your PC Device with Thermaltake",
     "image": "",
     "link": "https://www.thermaltake.com/thermaltake-support-intel-lga1700-socket",
-    "tags": ["magento", "產品頁面"],
+    "tags": ["magento", "javascript", "產品頁面"],
     "content": "這頁也是產品需求做的網頁，也寫了下滑有出現文字滑入、出現左邊有導覽選單效果。"
   },
   {
