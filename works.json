@@ -1,5 +1,13 @@
 [
   {
+    "id": 23,
+    "title": "大富翁遊戲",
+    "image": "",
+    "link": "https://janbond.github.io/vite-richman/",
+    "tags": ["vue", "vite", "vuex", "活動網站"],
+    "content": "遊戲活動用的網站，用 vite 建製，可以點擊擲骰子後，人物會隨著骰子的數字一格一格行走，走完一圈可以抽機會命運的卡片，原本此活動網站是用純 JS 手刻，後來自己試著用 vue 寫出來。"
+  },
+  {
     "id": 21,
     "title": "曜越單車電競爭霸戰",
     "image": "",
