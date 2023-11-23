@@ -1,11 +1,43 @@
 [
   {
+    "id": 27,
+    "title": "公司形象網站",
+    "image": "",
+    "link": "https://janbond.github.io/joycorp/#/",
+    "tags": ["vue", "vite", "vuex", "axios", "企業網站"],
+    "content": "公司形象網站改版，用 Vite 建製，與後台 API 串接取得最新公告，因為後台公告沒有做年月份分類，所以在前端取得所有公告後再自行用年份跟月份做分類、也有做搜尋輸入框，皆可以提供使用者方便尋找資料。"
+  },
+  {
+    "id": 26,
+    "title": "倉鼠換裝拍照功能",
+    "image": "",
+    "link": "https://janbond.github.io/nu3-hamster-co-branded/adopt_start.html",
+    "tags": ["javascript", "活動網站"],
+    "content": "活動用的功能網站，用純 Javascript 撰寫，可以選擇四隻任何其中一隻倉鼠並改變身上配件做搭配，也可以隨時改變你倉鼠跟配件，選擇完後可以拍照截圖下載圖片。"
+  },
+  {
+    "id": 25,
+    "title": "夾娃娃機遊戲",
+    "image": "",
+    "link": "https://janbond.github.io/nu3-hamster-co-branded/claw-machine.html",
+    "tags": ["javascript", "活動網站"],
+    "content": "遊戲活動用的網站，用純 Javascript 撰寫，點擊 Play 按鈕後，隨機給亂數並執行夾子移動動畫夾取對應獎項。"
+  },
+  {
+    "id": 24,
+    "title": "跑跑轉盤遊戲",
+    "image": "",
+    "link": "https://janbond.github.io/nu3-hamster-co-branded/lottery-wheel.html",
+    "tags": ["javascript", "活動網站"],
+    "content": "遊戲活動用的網站，用純 Javascript 撰寫，點擊開始按鈕後，隨機給亂數並旋轉到該格子後，彈跳出該格子對應的獎項。"
+  },
+  {
     "id": 23,
     "title": "大富翁遊戲",
     "image": "",
     "link": "https://janbond.github.io/vite-richman/",
     "tags": ["vue", "vite", "vuex", "javascript", "活動網站"],
-    "content": "遊戲活動用的網站，用 vite 建製，可以點擊擲骰子後，人物會隨著骰子的數字一格一格行走，走完一圈可以抽機會命運的卡片，原本此活動網站是用純 JS 手刻，後來自己試著用 vue 寫出來。"
+    "content": "遊戲活動用的網站，用 Vite 建製，可以點擊擲骰子後，人物會隨著骰子的數字一格一格行走，走完一圈可以抽機會命運的卡片，原本此活動網站是用純 javascript 手刻，後來自己試著用 Vue 寫出來。"
   },
   {
     "id": 21,
