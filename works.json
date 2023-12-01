@@ -1,7 +1,15 @@
 [
   {
+    "id": 28,
+    "title": "公司形象網站(Nuxt3)",
+    "image": "",
+    "link": "https://janbond.github.io/first-nuxt3/",
+    "tags": ["vue", "nuxt", "pinia", "企業網站"],
+    "content": "公司形象網站改版，跟上一個用 Vite 的網站一樣，但是這是自己嘗試用 Nuxt3 來建製，並從 Vuex 改成用 Pinia 來當狀態管理工具，與後台 API 串接取得最新公告、做年月份分類、搜尋輸入框等等。"
+  },
+  {
     "id": 27,
-    "title": "公司形象網站",
+    "title": "公司形象網站(Vite)",
     "image": "",
     "link": "https://janbond.github.io/joycorp/#/",
     "tags": ["vue", "vite", "vuex", "axios", "企業網站"],
