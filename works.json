@@ -1,5 +1,13 @@
 [
   {
+    "id": 31,
+    "title": "中工 LINE 群組管理平台(Vue)",
+    "image": "",
+    "link": "https://bes-frontend.jp.ngrok.io/",
+    "tags": ["vue", "vite", "pinia", "axios", "企業網站"],
+    "content": "公司內部用來記錄與儲存有放 LINE 機器人的群組訊息、檔案、圖片<a href=\"https://janbond.github.io/portfolio2022/images/31/best_bot_user manual.pptx\" title=\"BESt_Bot使用者手冊\" target=\"_blank\"><div class=\"btn\"><font-awesome-icon :icon=\"['fas', 'link']\" class=\"iconAw wh\"/>下載使用者手冊</div></a>"
+  },
+  {
     "id": 30,
     "title": "網石形象網站(React)",
     "image": "",
