@@ -5,7 +5,7 @@
     "image": "",
     "link": "https://bes-frontend.jp.ngrok.io/",
     "tags": ["vue", "vite", "pinia", "axios", "企業網站"],
-    "content": "公司內部用來記錄與儲存有放 LINE 機器人的群組訊息、檔案、圖片<a href=\"https://janbond.github.io/portfolio2022/images/31/best_bot_user manual.pptx\" title=\"BESt_Bot使用者手冊\" target=\"_blank\"><div class=\"btn\"><font-awesome-icon :icon=\"['fas', 'link']\" class=\"iconAw wh\"/>下載使用者手冊</div></a>"
+    "content": "公司內部用來記錄與儲存有放 LINE 機器人的群組訊息、檔案、圖片，詳情可參考手冊：<br><a href=\"https://janbond.github.io/portfolio2022/images/31/best_bot_user manual.pptx\" title=\"BESt_Bot使用者手冊\" target=\"_blank\"><div class=\"btn\"><font-awesome-icon :icon=\"['fas', 'link']\" class=\"iconAw wh\"/>下載使用者手冊</div></a><br>串接 LINE 登入，登入後取得 LINE 個人訊息，再去判斷是否有實名註冊、加機器人為好友。<br>管理員登入，管理員可管理所有頁面功能與設定權限、儲存硬體等，使用者權限分為群組管理員、群組助理、一般使用者，管理員與助理分別有不同能使用的功能，而一般使用者就單純的看訊息與搜尋、單筆文件下載功能<br>管理員與助理另外還有時間區間的訊息或檔案壓縮檔下載功能、群組人員的權限修改、依照統編來新增修改公司、新增修改儲存裝置等功能。"
   },
   {
     "id": 30,
