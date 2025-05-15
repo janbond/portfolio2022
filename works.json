@@ -1,11 +1,11 @@
 [
   {
     "id": 31,
-    "title": "中工 LINE 群組管理平台(Vue)",
+    "title": "中工 LINE 群組資料收集平台(Vue)",
     "image": "",
     "link": "https://bes-frontend.jp.ngrok.io/login?platform=lcgp",
     "tags": ["vue", "vite", "pinia", "vuetify", "axios", "企業網站", "i18n 多國語系", "micro app"],
-    "content": "公司內部用來記錄與儲存有放 LINE 機器人的群組訊息、檔案、圖片，詳情可參考手冊：<br><a href=\"https://janbond.github.io/portfolio2022/images/31/best_bot_user manual.pptx\" title=\"BESt_Bot使用者手冊\" target=\"_blank\"><div class=\"btn\">下載使用者手冊</div></a><br><br>網站有兩種登入方式。<br>LINE 使用者登入：<br>登入後取得 LINE 個人資訊，再去判斷是否有加機器人為好友、實名註冊後，方可使用網站基本瀏覽群組、圖片與檔案功能。<br><br>管理員登入：<br>管理員可管理所有頁面功能與設定權限、儲存硬體等，使用者權限分為群組管理員、群組助理、一般使用者，管理員與助理分別有不同能使用的功能，而一般使用者就單純的看訊息與搜尋、單筆文件下載功能。<br>而也可以設定 LINE 使用者為群組管理者或助理，去代管理該群組。<br>管理員與助理也還有時間區間的訊息或檔案壓縮檔下載功能、群組人員的權限修改、依照統編來新增修改公司、新增修改儲存裝置等功能。"
+    "content": "公司內部用來記錄與儲存有放 LINE 機器人的群組訊息、檔案、圖片，詳情可參考手冊：<br><a href=\"https://janbond.github.io/portfolio2022/images/31/best_bot_user manual.pptx\" title=\"BESt_Bot使用者手冊\" target=\"_blank\"><div class=\"btn\">下載使用者手冊</div></a><br><br>網站有兩種登入方式。<br>LINE 使用者登入：<br>登入後取得 LINE 個人資訊，再去判斷是否有加機器人為好友、實名註冊後，方可使用網站基本瀏覽群組、圖片與檔案功能。<br>但如果有被賦予其他權限的話，就可以使用相對的管理員功能。<br><br>管理員登入：<br>管理員可管理所有頁面功能與設定權限、儲存硬體等，使用者權限分為群組管理員、群組助理、一般使用者，管理員與助理分別有不同能使用的功能，而一般使用者就單純的看訊息與搜尋、單筆文件下載功能。<br>而也可以設定 LINE 使用者為群組管理者或助理，去代管理該群組。<br>管理員與助理也還有時間區間的訊息或檔案壓縮檔下載功能、群組人員的權限修改、依照統編來新增修改公司、新增修改儲存裝置等功能。"
   },
   {
     "id": 30,
