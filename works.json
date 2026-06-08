@@ -3,9 +3,9 @@
     "id": 35,
     "title": "太陽能監控系統平台(Vue)",
     "image": "",
-    "link": "",
+    "link": "https://janbond.github.io/portfolio2022/images/35/best_solar.pptx",
     "tags": ["vue", "vite", "pinia", "vuetify", "axios", "tailwind css", "i18n 多國語系", "micro app"],
-    "content": "原預計透過部門開發的底層核心，為了幫公司取代外部雲端太陽能監控系統的功能。<br>歡迎下載完整的使用者手冊，查看更詳細的畫面：<br><a href=\"https://janbond.github.io/portfolio2022/images/35/best_solar.pptx\" title=\"太陽能監控系統\" target=\"_blank\"><div class=\"btn\">下載使用者手冊</div></a><br><br>主要負責串接後端 API 來呈現所有頁面所需要的資料。"
+    "content": "原預計透過部門開發的底層核心，為了幫公司取代外部雲端太陽能監控系統的功能。<br>歡迎下載檔案，查看更詳細的畫面：<br><a href=\"https://janbond.github.io/portfolio2022/images/35/best_solar.pptx\" title=\"太陽能監控系統\" target=\"_blank\"><div class=\"btn\">下載檔案</div></a><br><br>主要負責串接後端 API 來呈現所有頁面所需要的資料。"
   },
   {
     "id": 34,
