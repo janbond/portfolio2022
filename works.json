@@ -1,7 +1,7 @@
 [
   {
     "id": 35,
-    "title": "太陽能監控系統平台(Vue)",
+    "title": "太陽能監控系統(Vue)",
     "image": "",
     "link": "https://janbond.github.io/portfolio2022/images/35/best_solar.pdf",
     "tags": ["vue", "vite", "pinia", "vuetify", "axios", "tailwind css", "i18n 多國語系", "micro app"],
@@ -9,7 +9,7 @@
   },
   {
     "id": 34,
-    "title": "建築履歷系統平台(Vue)",
+    "title": "建築履歷系統(Vue)",
     "image": "",
     "link": "https://janbond.github.io/portfolio2022/images/34/best_logbook_user_manual.pdf",
     "tags": ["vue", "vite", "pinia", "vuetify", "axios", "tailwind css", "i18n 多國語系", "micro app"],
@@ -17,7 +17,7 @@
   },
   {
     "id": 33,
-    "title": "檔案編碼系統平台(React)",
+    "title": "檔案文檔編碼系統(React)",
     "image": "",
     "link": "https://janbond.github.io/portfolio2022/images/33/best_fnp_user_manual.pdf",
     "tags": ["react", "redux", "material ui", "axios", "tailwind css", "i18n 多國語系", "micro app"],
@@ -25,7 +25,7 @@
   },
   {
     "id": 32,
-    "title": "LINE 群組資料收集平台(Vue)",
+    "title": "LINE 數位資產安全管控平台(Vue)",
     "image": "",
     "link": "https://janbond.github.io/portfolio2022/images/32/best_bot_user_manual.pdf",
     "tags": ["vue", "vite", "pinia", "vuetify", "axios", "i18n 多國語系", "micro app"],
